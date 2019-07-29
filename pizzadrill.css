@@ -31,6 +31,8 @@ text-transform: none;
 
 
 
+
+
 #totalPrice {
 	width: 200px;
 	height: 190px;
@@ -48,7 +50,7 @@ text-transform: none;
 	height: 200px;
 	float: right;
 }
-.menu veggies {
+.menuveggies {
 	float: right;
 }
 
