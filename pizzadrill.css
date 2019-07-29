@@ -8,7 +8,7 @@
 font-size: 20px;
 letter-spacing: 2px;
 word-spacing: 2px;
-color: 		rgb(241, 208, 18);
+color: 		rgb(16, 129, 235);
 font-weight: normal;
 text-decoration: none;
 font-style: normal;
@@ -43,10 +43,12 @@ text-transform: none;
 	height: 200px;
 	float: left;
 }
-
 .right {
 	width: 200px;
 	height: 200px;
+	float: right;
+}
+.menu veggies {
 	float: right;
 }
 
@@ -71,5 +73,5 @@ text-transform: none;
 }
 
 body {
-	background-image: url("./images/pizza2.jpg");
+	background-image: url("./images/pizza4.jpg");
 }
