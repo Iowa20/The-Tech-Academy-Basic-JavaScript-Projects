@@ -50,8 +50,8 @@ text-transform: none;
 	height: 200px;
 	float: right;
 }
-.menuveggies {
-	text-align: right;
+.veggies {
+	text-align: left;
 }
 
 #showText {
