@@ -51,7 +51,7 @@ text-transform: none;
 	float: right;
 }
 .menuveggies {
-	float: right;
+	text-align: right;
 }
 
 #showText {
